@@ -1,8 +1,8 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "GithubBlog",
+    "name": "Github博客",
+    "link": "https://lowarex.github.io/MyWebsite/"
   },
   {
     "icon": "Cloud",
@@ -21,7 +21,7 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "网址导航",
     "link": "https://web.imsyy.top/"
   },
   {
