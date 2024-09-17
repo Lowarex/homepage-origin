@@ -2,7 +2,7 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
+    "tip": "我的 Github 主页",
     "url": "https://github.com/imsyy"
   },
   {
@@ -14,25 +14,25 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
+    "tip": "欢迎 QQ 联系",
     "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
+    "tip": "欢迎通过 Email 联系 ~",
     "url": "mailto:one@imsyy.top"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
+    "tip": "欢迎关注推文 ~",
     "url": "https://twitter.com/iimmsyy"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "欢迎联系交流 ~",
     "url": "https://t.me/bottom_user"
   }
 ]
