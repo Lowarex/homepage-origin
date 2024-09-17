@@ -4,9 +4,9 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">网站导航</span>
     </div>
-    <!-- 网站列表 -->
+    <!-- 网站导航 -->
     <Swiper
       v-if="siteLinks[0]"
       :modules="[Pagination, Mousewheel]"
